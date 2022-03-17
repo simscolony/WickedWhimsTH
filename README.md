@@ -1,0 +1,2 @@
+# WickedWhimsTH
+WickedWhims Transalation Thai
