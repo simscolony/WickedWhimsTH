@@ -14,7 +14,7 @@
 
 | SIMSCOLONY THAI| WickedWhims 17-03-2022|รายละเอียด|
 | ------------- | ------------- | ------------- |
-| WickedWhims V48| [แปลไทย WickedWhims ](https://modsfire.com/5mXnKq3M7b143pR) |แปลไทยอย่างเดียว|
+| WickedWhims V48| [แปลไทย WickedWhims ](https://modsfire.com/Y37BLwJ4j5nLM83) |แปลไทยอย่างเดียว|
 | WickedWhims V48 สำหรับ MAC และ Windows|   [แปลไทย WickedWhims 48 พร้อมตัวเล่น](https://modsfire.com/vA95U8dznuvSD6w) |แปลไทย พร้อมตัวเล่น สำหรับ MAC และ Windows สำหรับเครื่องที่ลงลิงค์ 1-2 แล้วไม่ขึ้น ไม่ต้องโหลด Wicked ภาษาอังกฤษมาลง - ลงตัวเดียวพร้อมเล่นมีตัวเกมและแปลไทยแล้ว|
 
 
