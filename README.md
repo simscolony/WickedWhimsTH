@@ -1,5 +1,5 @@
 
-# แปลฟรีและสามารถดาวโหลดฟรี ไม่มีการครอบลิงค์หาเงิน หาพบเห็นให้แจ้งแอดมินของเว็บนั้นๆ
+# แปลไทย WickedWhims v167g - MARCH 15TH 2022
 ## ซื้อเกมได้ที่ [BUT SIMS4](https://www.cdkeys.com/pc/games/the-sims-4-standard-edition-pc-cd-key-origin?mw_aref=simscolony)
 
 กรุณาเลือกติดตั้งระหว่าง WickedWhims และ WonderfulWhims อย่างใดอย่างหนึ่งเท่านั้นไม่สามารถติดตั้งพร้อมกันได้
