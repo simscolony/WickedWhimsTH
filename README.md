@@ -1,5 +1,5 @@
 
-# แปลไทย WickedWhims v167g - MARCH 15TH 2022
+# แปลไทย WickedWhims v169g - APRIL 11TH 2022
 ## ซื้อเกมได้ที่ [BUT SIMS4](https://www.cdkeys.com/pc/games/the-sims-4-standard-edition-pc-cd-key-origin?mw_aref=simscolony)
 
 กรุณาเลือกติดตั้งระหว่าง WickedWhims และ WonderfulWhims อย่างใดอย่างหนึ่งเท่านั้นไม่สามารถติดตั้งพร้อมกันได้
@@ -12,20 +12,19 @@
 
 
 
-| SIMSCOLONY THAI| WickedWhims 17-03-2022|รายละเอียด|
+| SIMSCOLONY THAI| WickedWhims 15-04-2022|รายละเอียด|
 | ------------- | ------------- | ------------- |
-| WickedWhims V48| [แปลไทย WickedWhims ](https://modsfire.com/Y37BLwJ4j5nLM83) |แปลไทยอย่างเดียว|
-| WickedWhims V48 สำหรับ MAC และ Windows|   [แปลไทย WickedWhims 48 พร้อมตัวเล่น](https://modsfire.com/m87xV2MVs33R8R0) |แปลไทย พร้อมตัวเล่น สำหรับ MAC และ Windows สำหรับเครื่องที่ลงลิงค์ 1-2 แล้วไม่ขึ้น ไม่ต้องโหลด Wicked ภาษาอังกฤษมาลง - ลงตัวเดียวพร้อมเล่นมีตัวเกมและแปลไทยแล้ว|
+| WickedWhims V50| [แปลไทย WickedWhims ](https://modsfire.com/Ajb13e9Zl8QFOvN) |แปลไทยอย่างเดียว|
+| WickedWhims V50 สำหรับ MAC และ Windows|   [modsfire แปลไทย WickedWhims 50 พร้อมตัวเล่น](https://modsfire.com/h3dCH8PihWHcPVd) |แปลไทย พร้อมตัวเล่น สำหรับ MAC และ Windows สำหรับเครื่องที่ลงลิงค์ 1-2 แล้วไม่ขึ้น ไม่ต้องโหลด Wicked ภาษาอังกฤษมาลง - ลงตัวเดียวพร้อมเล่นมีตัวเกมและแปลไทยแล้ว|
 
 
 
 ![LOGO_WickedWhims](https://img.itch.zone/aW1nLzMzMDExODAucG5n/original/mSNqg3.png)
 # Update Last Support 
-## Public Version WickedWhims v167g - MARCH 15TH 2022
-##  patreon Version WickedWhim﻿s  v170.3 - MARCH 15TH 2022
+## Public Version WickedWhims v169g - APRIL 11TH 2022
+##  patreon Version WickedWhim﻿s  v171.1 - APRIL 11TH 2022
 
 ### HOW TO Downlodws MOD PLAY
-
 
 # วิธีการลง
 1. ติดตั้ง MOD ภาพไทย
