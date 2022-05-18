@@ -14,7 +14,7 @@
 
 | SIMSCOLONY THAI| WickedWhims 15-04-2022|รายละเอียด|
 | ------------- | ------------- | ------------- |
-| WickedWhims V50| [แปลไทย WickedWhims ]([https://modsfire.com/Ajb13e9Zl8QFOvN](https://github.com/simscolony/WickedWhimsTH/raw/main/SIMSCOLONY_WickedTH_15-04-2022.package)) |แปลไทยอย่างเดียว|
+| WickedWhims V50| [แปลไทย WickedWhims ]([https://modsfire.com/Ajb13e9Zl8QFOvN](https://github.com/simscolony/WickedWhimsTH/raw/main/SIMSCOLONY_WickedTH_15-04-2022.package) |แปลไทยอย่างเดียว|
 | WickedWhims V50 สำหรับ MAC และ Windows|   [modsfire แปลไทย WickedWhims 50 พร้อมตัวเล่น](https://modsfire.com/h3dCH8PihWHcPVd) |แปลไทย พร้อมตัวเล่น สำหรับ MAC และ Windows สำหรับเครื่องที่ลงลิงค์ 1-2 แล้วไม่ขึ้น ไม่ต้องโหลด Wicked ภาษาอังกฤษมาลง - ลงตัวเดียวพร้อมเล่นมีตัวเกมและแปลไทยแล้ว|
 
 
