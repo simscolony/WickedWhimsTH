@@ -18,6 +18,7 @@
 | WickedWhims V51 สำหรับ MAC และ Windows|   [modsfire แปลไทย WickedWhims 51 พร้อมตัวเล่น](http://www.simfileshare.net/download/3236037/) |แปลไทย พร้อมตัวเล่น สำหรับ MAC และ Windows สำหรับเครื่องที่ลงลิงค์ 1-2 แล้วไม่ขึ้น ไม่ต้องโหลด Wicked ภาษาอังกฤษมาลง - ลงตัวเดียวพร้อมเล่นมีตัวเกมและแปลไทยแล้ว อาจมี ERROR ป้ายส้มแต่เล่นได้ตามปกติ|
 
 สำหรับตัวรวมอาจจะมีการแจ้งเตือนแต่สามารถเล่นได้ตามปกติ
+
 ![EEOROR_WICKED](https://user-images.githubusercontent.com/13219372/173412099-a9ba4be7-5b34-42ea-8fd4-b6ffaa8dc05d.jpg)
 
 
