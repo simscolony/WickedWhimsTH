@@ -11,7 +11,10 @@
 โหลดตัวเล่น[loverslab แปลไทย WickedWhims](https://www.loverslab.com/files/file/5755-sims-4-wickedwhims-thai-support-wickedwhims-v167c-18-december-2021/)
 
 
-
+![LOGO_WickedWhims](https://img.itch.zone/aW1nLzMzMDExODAucG5n/original/mSNqg3.png)
+# Update Last Support 
+## Public Version WickedWhims v170g -  9 June 2022
+##  patreon Version WickedWhim﻿s  v172.1 - 9 June 2022
 | SIMSCOLONY THAI| WickedWhims 15-06-2022|รายละเอียด|
 | ------------- | ------------- | ------------- |
 | WickedWhims V51| [แปลไทย WickedWhims ](https://github.com/simscolony/WickedWhimsTH/raw/main/%5BSIMSCOLONY%5D_WickedWhims_TH_%5B15-6-2022%5D.package) |แปลไทยอย่างเดียว|
@@ -22,13 +25,7 @@
 ![EEOROR_WICKED](https://user-images.githubusercontent.com/13219372/173412099-a9ba4be7-5b34-42ea-8fd4-b6ffaa8dc05d.jpg)
 
 
-
-![LOGO_WickedWhims](https://img.itch.zone/aW1nLzMzMDExODAucG5n/original/mSNqg3.png)
-# Update Last Support 
-## Public Version WickedWhims v170g -  9 June 2022
-##  patreon Version WickedWhim﻿s  v172.1 - 9 June 2022
-
-### HOW TO Downlodws MOD PLAY
+### HOW TO Downlodws MOD TO PLAY
 
 # วิธีการลง
 1. ติดตั้ง MOD ภาพไทย
