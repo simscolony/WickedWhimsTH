@@ -16,12 +16,17 @@
 ## Public Version WickedWhims v170g -  9 June 2022
 ##  patreon Version WickedWhim﻿s  v172.1 - 9 June 2022
 
+
 | SIMSCOLONY THAI| WickedWhims 15-06-2022|รายละเอียด|
 | ------------- | ------------- | ------------- |
 | WickedWhims V51| [แปลไทย WickedWhims ](https://github.com/simscolony/WickedWhimsTH/raw/main/%5BSIMSCOLONY%5D_WickedWhims_TH_%5B15-6-2022%5D.package) |แปลไทยอย่างเดียว|
-| WickedWhims V51 สำหรับ MAC และ Windows|   [simfileshare แปลไทย WickedWhims 51 พร้อมตัวเล่น](http://www.simfileshare.net/download/3236037/) |แปลไทย พร้อมตัวเล่น สำหรับ MAC และ Windows สำหรับเครื่องที่ลงลิงค์ 1-2 แล้วไม่ขึ้น ไม่ต้องโหลด Wicked ภาษาอังกฤษมาลง - ลงตัวเดียวพร้อมเล่นมีตัวเกมและแปลไทยแล้ว อาจมี ERROR ป้ายส้มแต่เล่นได้ตามปกติ|
+| WickedWhims V51 สำหรับ MAC และ Windows|   [simfileshare แปลไทย WickedWhims 51 พร้อมตัวเล่น](http://www.simfileshare.net/download/3236037/) |แปลไทย พร้อมตัวเล่น สำหรับ MAC และ Windows |
 
-สำหรับตัวรวมอาจจะมีการแจ้งเตือนแต่สามารถเล่นได้ตามปกติ
+*เลือกลงตัวแรกก่อนพร้อม MOD เล่นหากเล่นไม่ได้ให้โหลดลิงค์ถัดไป
+
+*สำหรับเครื่องที่ลงลิงค์ 1-2 แล้วไม่ขึ้น ไม่ต้องโหลด Wicked ภาษาอังกฤษมาลง - ลงตัวเดียวพร้อมเล่นมีตัวเกมและแปลไทยแล้ว อาจมี ERROR ป้ายส้มแต่เล่นได้ตามปกติสำหรับตัวรวมอาจจะมีการแจ้งเตือนแต่สามารถเล่นได้ตามปกติ
+
+
 
 ![EEOROR_WICKED](https://user-images.githubusercontent.com/13219372/173412099-a9ba4be7-5b34-42ea-8fd4-b6ffaa8dc05d.jpg)
 
