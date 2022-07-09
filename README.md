@@ -15,6 +15,7 @@
 # Update Last Support 
 ## Public Version WickedWhims v170g -  9 June 2022
 ##  patreon Version WickedWhim﻿s  v172.1 - 9 June 2022
+
 | SIMSCOLONY THAI| WickedWhims 15-06-2022|รายละเอียด|
 | ------------- | ------------- | ------------- |
 | WickedWhims V51| [แปลไทย WickedWhims ](https://github.com/simscolony/WickedWhimsTH/raw/main/%5BSIMSCOLONY%5D_WickedWhims_TH_%5B15-6-2022%5D.package) |แปลไทยอย่างเดียว|
