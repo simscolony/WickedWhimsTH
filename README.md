@@ -22,14 +22,6 @@
 | WickedWhims V51| [แปลไทย WickedWhims ](https://github.com/simscolony/WickedWhimsTH/raw/main/%5BSIMSCOLONY%5D%20WickedWhims_TH%20%5B18-8-2022%5D.package) |แปลไทยอย่างเดียว|
 
 
-*เลือกลงตัวแรกก่อนพร้อม MOD เล่นหากเล่นไม่ได้ให้โหลดลิงค์ถัดไป
-
-*สำหรับเครื่องที่ลงลิงค์ 1-2 แล้วไม่ขึ้น ไม่ต้องโหลด Wicked ภาษาอังกฤษมาลง 
- อาจจะมี ERROR ป้ายส้มแต่เล่นได้ตามปกติสำหรับตัวรวมอาจจะมีการแจ้งเตือนแต่สามารถเล่นได้ตามปกติ
-
-![EEOROR_WICKED](https://user-images.githubusercontent.com/13219372/173412099-a9ba4be7-5b34-42ea-8fd4-b6ffaa8dc05d.jpg)
-
-
 ### HOW TO Downlodws MOD TO PLAY
 
 # วิธีการลง
