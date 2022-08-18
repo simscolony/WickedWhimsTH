@@ -7,20 +7,20 @@
 ![CLUB-ACIYORUZ-💓Sims-4-Wicked-Whims-Turkce-inceleme](https://user-images.githubusercontent.com/13219372/127035913-4855b0af-ebc4-4239-9b25-57c0f2bb4267.jpg)
 
 
-# แปลไทย WickedWhims อัพเดท 14 มิถุนายน 2565 - อัตราการแปล 100%
+# แปลไทย WickedWhims อัพเดท 18 สิงหาคม2565 - อัตราการแปล 100%
 โหลดตัวเล่น[loverslab แปลไทย WickedWhims](https://www.loverslab.com/files/file/5755-sims-4-wickedwhims-thai-support-wickedwhims-v167c-18-december-2021/)
 
 
 ![LOGO_WickedWhims](https://img.itch.zone/aW1nLzMzMDExODAucG5n/original/mSNqg3.png)
 # Update Last Support 
-## Public Version WickedWhims v170g -  9 June 2022
-##  patreon Version WickedWhim﻿s  v172.1 - 9 June 2022
+## Public Version WickedWhims v170k - 10 August 2022
+##  patreon Version WickedWhim﻿s  v173.2 - 10 August 2022
 
 
-| SIMSCOLONY THAI| WickedWhims 15-06-2022|รายละเอียด|
+| SIMSCOLONY THAI| WickedWhims 18-08-2022|รายละเอียด|
 | ------------- | ------------- | ------------- |
-| WickedWhims V51| [แปลไทย WickedWhims ](https://github.com/simscolony/WickedWhimsTH/raw/main/%5BSIMSCOLONY%5D_WickedWhims_TH_%5B15-6-2022%5D.package) |แปลไทยอย่างเดียว|
-| WickedWhims V51 สำหรับ MAC และ Windows|   [simfileshare แปลไทย WickedWhims 51 พร้อมตัวเล่น](http://www.simfileshare.net/download/3236037/) |แปลไทย พร้อมตัวเล่น สำหรับ MAC และ Windows |
+| WickedWhims V51| [แปลไทย WickedWhims ](https://github.com/simscolony/WickedWhimsTH/raw/main/%5BSIMSCOLONY%5D%20WickedWhims_TH%20%5B18-8-2022%5D.package) |แปลไทยอย่างเดียว|
+
 
 *เลือกลงตัวแรกก่อนพร้อม MOD เล่นหากเล่นไม่ได้ให้โหลดลิงค์ถัดไป
 
