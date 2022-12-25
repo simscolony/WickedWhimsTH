@@ -13,13 +13,13 @@
 
 ![LOGO_WickedWhims](https://img.itch.zone/aW1nLzMzMDExODAucG5n/original/mSNqg3.png)
 # Update Last Support 
-## Public Version WickedWhims v170k - 10 August 2022
-##  patreon Version WickedWhim﻿s  v173.2 - 10 August 2022
+## Public Version WickedWhims v174a -  22ND DECEMBER 2022
+##  patreon Version WickedWhim﻿s  v175.3 - 22ND DECEMBER 2022
 
 
-| SIMSCOLONY THAI| WickedWhims 18-08-2022|รายละเอียด|
+| SIMSCOLONY THAI| WickedWhims 25-12-2022|รายละเอียด|
 | ------------- | ------------- | ------------- |
-| WickedWhims V51| [แปลไทย WickedWhims ](https://github.com/simscolony/WickedWhimsTH/raw/main/%5BSIMSCOLONY%5D%20WickedWhims_TH%20%5B18-8-2022%5D.package) |แปลไทยอย่างเดียว|
+| WickedWhims V51| [แปลไทย WickedWhims ](https://github.com/simscolony/WickedWhimsTH/raw/main/%5BSIMSCOLONY%5D%20WickedWhims%20v174a%20-%20THAI%20%5B25-12-2022%5D.package) |แปลไทยอย่างเดียว|
 
 
 ### HOW TO Downlodws MOD TO PLAY
