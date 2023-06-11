@@ -17,8 +17,8 @@
 
 | SIMSCOLONY THAI| WickedWhims 11-6-2023|รายละเอียด|
 | ------------- | ------------- | ------------- |
-| WickedWhims V174| [แปลไทย WickedWhims ](https://github.com/simscolony/WickedWhimsTH/raw/main/%5BSIMSCOLONY%5D%20WickedWhims%20THAI%20%5B29-01-2023%5D.package) |แปลไทยอย่างเดียว|
-| WickedWhims V174| [แปลไทย WickedWhims curseforge](https://www.curseforge.com/sims4/mods/wonderfulwhims-thai-translation)| ลงแล้วใช้ได้ทั้ง Wonder และ Wicked|
+| WickedWhims V176| [แปลไทย WickedWhims ](https://github.com/simscolony/WickedWhimsTH/blob/main/%5BSIMSCOLONY%5D%20WickedWhims_TH_2023.package)  |แปลไทยอย่างเดียว|
+| WickedWhims V176| [แปลไทย WickedWhims curseforge](https://www.curseforge.com/sims4/mods/wonderfulwhims-thai-translation)| ลงแล้วใช้ได้ทั้ง Wonder และ Wicked|
 
 
 ### HOW TO Downlodws MOD TO PLAY
