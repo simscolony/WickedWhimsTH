@@ -15,7 +15,7 @@
 # Update Last Support 
 ## Public WickedWhims v176f -JULY 24TH, 2023  and Patreon- WickedWhims v179.2 - 24 July 2023 
 
-| SIMSCOLONY THAI| WickedWhims 11-6-2023|รายละเอียด|
+| SIMSCOLONY THAI| WickedWhims 1-8-2023|รายละเอียด|
 | ------------- | ------------- | ------------- |
 | WickedWhims V176| [แปลไทย WickedWhims ](https://github.com/simscolony/WickedWhimsTH/blob/main/%5BSIMSCOLONY%5DWickedWhims_TH_2023.package)  |แปลไทยอย่างเดียว|
 | WickedWhims V176| [แปลไทย WickedWhims curseforge](https://www.curseforge.com/sims4/mods/wonderfulwhims-thai-translation)| ลงแล้วใช้ได้ทั้ง Wonder และ Wicked|
