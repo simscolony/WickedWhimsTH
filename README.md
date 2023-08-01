@@ -13,7 +13,8 @@
 
 ![LOGO_WickedWhims](https://img.itch.zone/aW1nLzMzMDExODAucG5n/original/mSNqg3.png)
 # Update Last Support 
-## Public WickedWhims v176f -JULY 24TH, 2023  and Patreon- WickedWhims v179.2 - 24 July 2023 
+## Public WickedWhims v176f -JULY 24TH, 2023  
+## Patreon- WickedWhims v179.2 - 24 July 2023 
 
 | SIMSCOLONY THAI| WickedWhims 1-8-2023|รายละเอียด|
 | ------------- | ------------- | ------------- |
