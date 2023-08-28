@@ -49,7 +49,7 @@ Patreon https://www.patreon.com/wickedwoohoo
 
 ## แปลไทย WonderfulWhims
 
-![LOGO_WonderfulWhims]([https://simscolony.github.io/WonderfulWhims_Traditional_THAI/](https://img.itch.zone/aW1nLzQyNjc4NDEucG5n/original/bivTAu.png))
+[https://simscolony.github.io/WonderfulWhims_Traditional_THAI](https://img.itch.zone/aW1nLzQyNjc4NDEucG5n/original/bivTAu.png)
 
 
 # หากพบปัญหา แจ้งงานแปล
