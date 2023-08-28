@@ -50,7 +50,7 @@ WickedWhims Mod made by TURBODRIVER   [Download wickedwhims](https://wickedwhims
 ## แปลไทย WonderfulWhims
 
 ![WONDER1](https://img.itch.zone/aW1nLzQyNjc4NDEucG5n/original/bivTAu.png)
-[WonderfulWhims]https://simscolony.github.io/WonderfulWhims_Traditional_THAI
+[WonderfulWhims](https://simscolony.github.io/WonderfulWhims_Traditional_THAI)
 
 
 # หากพบปัญหา แจ้งงานแปล
