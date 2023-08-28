@@ -35,7 +35,7 @@ WickedWhims Mod made by TURBODRIVER   [Download wickedwhims](https://wickedwhims
 
 
 ดาวโหลด MOD หลัก WickedWhims  รุ่นสนับสนุับ
-Patreon https://www.patreon.com/wickedwoohoo
+[Patreon wickedwoohoo](https://www.patreon.com/wickedwoohoo)
 
 
 3. นำลงใส่ใน FLoder Mods
@@ -49,7 +49,8 @@ Patreon https://www.patreon.com/wickedwoohoo
 
 ## แปลไทย WonderfulWhims
 
-[https://simscolony.github.io/WonderfulWhims_Traditional_THAI](https://img.itch.zone/aW1nLzQyNjc4NDEucG5n/original/bivTAu.png)
+![WONDER1](https://img.itch.zone/aW1nLzQyNjc4NDEucG5n/original/bivTAu.png)
+[WonderfulWhims]https://simscolony.github.io/WonderfulWhims_Traditional_THAI
 
 
 # หากพบปัญหา แจ้งงานแปล
