@@ -39,14 +39,17 @@ Patreon https://www.patreon.com/wickedwoohoo
 
 
 3. นำลงใส่ใน FLoder Mods
+![wick1](https://images2.imgbox.com/13/a1/kwvL8UYq_o.jpg)
 
-![wick](https://user-images.githubusercontent.com/13219372/127035833-41096a39-6cce-4852-8207-d3f88aae143a.jpg)
+5. หากไม่ติดให้ย้ายเข้าไปใน Floder
+
+![wick2](https://user-images.githubusercontent.com/13219372/127035833-41096a39-6cce-4852-8207-d3f88aae143a.jpg)
+
 
 
 ## แปลไทย WonderfulWhims
 
-![LOGO_WonderfulWhims](https://img.itch.zone/aW1nLzQyNjc4NDEucG5n/original/bivTAu.png)
-https://simscolony.github.io/WonderfulWhims_Traditional_THAI/
+![LOGO_WonderfulWhims]([https://simscolony.github.io/WonderfulWhims_Traditional_THAI/](https://img.itch.zone/aW1nLzQyNjc4NDEucG5n/original/bivTAu.png))
 
 
 # หากพบปัญหา แจ้งงานแปล
