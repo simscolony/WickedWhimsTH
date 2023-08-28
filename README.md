@@ -39,9 +39,10 @@ WickedWhims Mod made by TURBODRIVER   [Download wickedwhims](https://wickedwhims
 
 
 3. นำลงใส่ใน FLoder Mods
+
 ![wick1](https://images2.imgbox.com/13/a1/kwvL8UYq_o.jpg)
 
-5. หากไม่ติดให้ย้ายเข้าไปใน Floder
+4. หากไม่ติดให้ย้ายเข้าไปใน Floder
 
 ![wick2](https://user-images.githubusercontent.com/13219372/127035833-41096a39-6cce-4852-8207-d3f88aae143a.jpg)
 
