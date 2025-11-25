@@ -18,7 +18,7 @@
 
 | SIMSCOLONY THAI| WickedWhims|รายละเอียด|
 | ------------- | ------------- | ------------- |
-| WickedWhims v187.6 | [แปลไทย WickedWhims](https://github.com/simscolony/WickedWhimsTH/releases/download/WickedWhims_TH_2025/SIMSCOLONY._WickedWhims_Thai_2025.package)  |แปลไทยอย่างเดียว|
+| WickedWhims v187.6 | [แปลไทย WickedWhims](https://github.com/simscolony/WickedWhimsTH/releases/download/WickedWhims_TH_2025/SIMSCOLONY_WickedWhims_Thai.7z)  |แปลไทยอย่างเดียว|
 | Wonderwhim with in WickedWhims  | [แปลไทย WickedWhims curseforge](https://www.curseforge.com/sims4/mods/wonderfulwhims-thai-translation)| ลงแล้วใช้ได้ทั้ง Wonder และ Wicked|
 
 
