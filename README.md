@@ -7,18 +7,18 @@
 ![CLUB-ACIYORUZ-💓Sims-4-Wicked-Whims-Turkce-inceleme](https://user-images.githubusercontent.com/13219372/127035913-4855b0af-ebc4-4239-9b25-57c0f2bb4267.jpg)
 ![CLUB-ACIYORUZ-💓Sims-4-Wicked-Whims-Turkce-inceleme](https://wicked.cc/wp-content/uploads/2024/02/PassionateRomance-copy.png)
 
-# แปลไทย WickedWhims อัพเดท 8 กันยายน 2567 - อัตราการแปล 100%
+# แปลไทย WickedWhims อัพเดท 25 พฤศจิกายน 2568- อัตราการแปล 100%
 โหลดตัวเล่น[loverslab แปลไทย WickedWhims](https://www.loverslab.com/files/file/5755-sims-4-wickedwhims-thai-support-wickedwhims-v167c-18-december-2021/)
 
 
 ![LOGO_WickedWhims](https://img.itch.zone/aW1nLzMzMDExODAucG5n/original/mSNqg3.png)
 # Update Last Support 
-1. Public WickedWhims v185b  - 14 August 2025
-2. PATREON - WickedWhims v187.6   - 14 August 2025
+1. Public WickedWhims v185b  - 10 October 2025
+2. PATREON - WickedWhims v187.6   - 11  October 2025
 
 | SIMSCOLONY THAI| WickedWhims|รายละเอียด|
 | ------------- | ------------- | ------------- |
-| WickedWhims v187.6 | [แปลไทย WickedWhims](https://github.com/simscolony/WickedWhimsTH/releases/download/WickedWhims_TH_2025/SIMSCOLONY.WickedWhims_TH_2025.package)  |แปลไทยอย่างเดียว|
+| WickedWhims v187.6 | [แปลไทย WickedWhims](https://github.com/simscolony/WickedWhimsTH/releases/download/WickedWhims_TH_2025/SIMSCOLONY._WickedWhims_Thai_2025.package)  |แปลไทยอย่างเดียว|
 | Wonderwhim with in WickedWhims  | [แปลไทย WickedWhims curseforge](https://www.curseforge.com/sims4/mods/wonderfulwhims-thai-translation)| ลงแล้วใช้ได้ทั้ง Wonder และ Wicked|
 
 
