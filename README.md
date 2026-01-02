@@ -14,7 +14,7 @@
 ![LOGO_WickedWhims](https://img.itch.zone/aW1nLzMzMDExODAucG5n/original/mSNqg3.png)
 # Update Last Support 
 1. Public WickedWhims v185b  - 10 October 2025
-2. PATREON - WickedWhims v187.6   - 11  October 2025
+2. PATREON - WickedWhims v187.12 - 11  October 2025
 
 | SIMSCOLONY THAI| WickedWhims|รายละเอียด|
 | ------------- | ------------- | ------------- |
