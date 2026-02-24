@@ -13,13 +13,13 @@
 
 ![LOGO_WickedWhims](https://img.itch.zone/aW1nLzMzMDExODAucG5n/original/mSNqg3.png)
 # Update Last Support 
-1. Public WickedWhims v185b  - 10 October 2025
-2. PATREON - WickedWhims v187.12 - 11  October 2025
+1. Public WickedWhims v185h - February 13th, 2026
+2. PATREON - WickedWhims v187.12 - February 13th, 2026
 
 | SIMSCOLONY THAI| WickedWhims|รายละเอียด|
 | ------------- | ------------- | ------------- |
-| WickedWhims v187.6 | [แปลไทย WickedWhims](https://github.com/simscolony/WickedWhimsTH/releases/download/WickedWhims_TH_2025/SIMSCOLONY_WickedWhims_Thai.7z)  |แปลไทยอย่างเดียว|
-| Wonderwhim with in WickedWhims  | [แปลไทย WickedWhims curseforge](https://www.curseforge.com/sims4/mods/wonderfulwhims-thai-translation)| ลงแล้วใช้ได้ทั้ง Wonder และ Wicked|
+| WickedWhims v185h | [แปลไทย WickedWhims](https://github.com/simscolony/WickedWhimsTH/raw/refs/heads/main/%5BSIMSCOLONY%5D_WickedWhims_TH_2026.package)  |แปลไทยอย่างเดียว|
+| Wonderwhim with in WickedWhims  | [แปลไทย Wonderwhim curseforge](https://www.curseforge.com/sims4/mods/wonderfulwhims-thai-translation)| ลงแล้วใช้ได้ทั้ง Wonder และ Wicked|
 
 
 
