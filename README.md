@@ -7,7 +7,7 @@
 ![CLUB-ACIYORUZ-💓Sims-4-Wicked-Whims-Turkce-inceleme](https://user-images.githubusercontent.com/13219372/127035913-4855b0af-ebc4-4239-9b25-57c0f2bb4267.jpg)
 ![CLUB-ACIYORUZ-💓Sims-4-Wicked-Whims-Turkce-inceleme](https://wicked.cc/wp-content/uploads/2024/02/PassionateRomance-copy.png)
 
-# แปลไทย WickedWhims อัพเดท 25 พฤศจิกายน 2568- อัตราการแปล 100%
+# แปลไทย WickedWhims อัพเดท 24 กุมภาพันธ์ 2569 อัตราการแปล 100%
 โหลดตัวเล่น[loverslab แปลไทย WickedWhims](https://www.loverslab.com/files/file/5755-sims-4-wickedwhims-thai-support-wickedwhims-v167c-18-december-2021/)
 
 
