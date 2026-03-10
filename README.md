@@ -1,5 +1,6 @@
 
 # แปลไทย WickedWhims Thai
+# แปลไทย WickedWhims อัพเดท 11 มีนาคม 2569 อัตราการแปล 100%
 ## ซื้อเกมได้ที่ [BUT SIMS4](https://www.cdkeys.com/pc/games/the-sims-4-standard-edition-pc-cd-key-origin?mw_aref=simscolony)
 
 กรุณาเลือกติดตั้งระหว่าง WickedWhims และ WonderfulWhims อย่างใดอย่างหนึ่งเท่านั้นไม่สามารถติดตั้งพร้อมกันได้
@@ -7,7 +8,7 @@
 ![CLUB-ACIYORUZ-💓Sims-4-Wicked-Whims-Turkce-inceleme](https://user-images.githubusercontent.com/13219372/127035913-4855b0af-ebc4-4239-9b25-57c0f2bb4267.jpg)
 ![CLUB-ACIYORUZ-💓Sims-4-Wicked-Whims-Turkce-inceleme](https://wicked.cc/wp-content/uploads/2024/02/PassionateRomance-copy.png)
 
-# แปลไทย WickedWhims อัพเดท 24 กุมภาพันธ์ 2569 อัตราการแปล 100%
+
 โหลดตัวเล่น[loverslab แปลไทย WickedWhims](https://www.loverslab.com/files/file/5755-sims-4-wickedwhims-thai-support-wickedwhims-v167c-18-december-2021/)
 
 
